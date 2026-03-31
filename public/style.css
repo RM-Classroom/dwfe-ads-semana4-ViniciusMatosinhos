@@ -57,7 +57,7 @@ h2 {
 
 .introducao-img img {
     width: 100%;      
-    max-width: 800px; 
+    max-width: 1000px; 
        
 }
 
@@ -66,7 +66,7 @@ h2 {
 }
 
 .introducao .introducao-text {
-    width: 400px;
+    width: 500px;
     padding: 10px;
     background-color: #111;
     position: relative;
