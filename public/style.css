@@ -1,3 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: aquamarine;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 20px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.nav .menu {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.nav {
+    display: flex;
+    align-items: center; 
+    gap: 20px;
+}
+
+
+.search-form {
+    display: flex;
+    align-items: center;
+}
+
+.search-form input {
+    border-radius: 5px 0 0 5px;
+}
+
+.search-form button {
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.introducao {
+    display: flex;
+    padding: 40px;
+    gap: 20px;
+}
+
+.introducao-img img {
+    width: 100%;      
+    max-width: 800px; 
+    height: auto;     
+}
+
+.introducao .introducao-text {
+    width: 50%;
+}
+
+.pilotos {
+    padding: 40px;
+}
+
+.introducao .introducao-text {
+    width: 350px;
+    padding: 10px;
+    background-color: #111;
+    position: relative;
+}
+
+.pilotos-sequencia {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.pilotos-sequencia .piloto {
+    width: 200px;
+    padding: 10px;
+    background-color: #111;
+    position: relative;
+}
+
+.piloto-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    display: block;
+}
+.footer {
+    padding: 20px;
+    text-align: center;
 }
