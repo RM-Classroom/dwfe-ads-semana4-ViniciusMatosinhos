@@ -11,7 +11,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: Vinicius Matosinhos
 - Matricula: 916374
 - Proposta de projeto escolhida: Criação de uma página web sobre MotoGP e seus pilotos.
-- Breve descrição sobre seu projeto: Página com seção principal com uma breve história na MotoGp e área de pilotos (Entidade Secundária), usando o básico de HTML e CSS, baseada em um wireframe criado previamente.
+- Breve descrição sobre seu projeto: Página com seção principal com uma breve história na MotoGp e área de pilotos (Entidade Secundária), usando o básico de HTML e CSS, baseada em um wireframe criado previamente no Canva.
 
 
 ## Print do(s) wireframe(s) criado
