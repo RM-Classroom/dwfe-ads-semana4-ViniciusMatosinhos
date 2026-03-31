@@ -10,12 +10,11 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Vinicius Matosinhos
 - Matricula: 916374
-- Proposta de projeto escolhida: 
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: Criação de uma página web sobre MotoGP e seus pilotos.
+- Breve descrição sobre seu projeto: Página com seção principal com uma breve história na MotoGp e área de pilotos (Entidade Secundária), usando o básico de HTML e CSS, baseada em um wireframe criado previamente.
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 ![Print Home Page](public/printwireframe.png)
 
