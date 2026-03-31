@@ -73,7 +73,12 @@ h2 {
 }
 
 .introducao-text p {
-    font-size: 18px;
+    font-size: 17px;
+}
+
+.introdução-img, 
+.introdução-text { 
+    width: 50%;
 }
 
 .pilotos-sequencia {
